@@ -2,7 +2,7 @@
 # 首先进入linux系统
 cd /opt
 # 下载本仓库文件 用于替换
-git clone https://github.com/ywk1000/xuexi.git
+git clone https://github.com/qiyuzhilu1/xuexi.git
 # 进入xuexi目录
 cd xuexi
 # docker-compose 默认映射到/opt/xuexi 如果你的cpu架构不是x86 或者定时之类的修改,都可以详细去看看docker-compose.yaml文件, 里面都是照搬techxuexi的代码, 可以参照techxuexi的模板修改
